@@ -157,7 +157,7 @@ This project is created for educational and learning purposes.
 **Muhammad Mubeen**
 
 * GitHub: https://github.com/MubeenBhatti563
-* LinkedIn: Add Your LinkedIn Profile Here
+* LinkedIn: https://www.linkedin.com/in/muhammad-mubeen-64633231a
 
 ---
 
