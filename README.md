@@ -10,16 +10,6 @@ https://your-live-demo-link.com
 
 ---
 
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Music Player
-
-![Music Player](./screenshots/player.png)
-
----
-
 ## ✨ Features
 
 * 🎧 Spotify-inspired user interface
